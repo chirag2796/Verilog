@@ -1,0 +1,1410 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\90\modelsim_ase\examples
+valways1
+INOA2ModBS[Czm<Sa74MUf2
+VJ9UhBRZh29^ZQ5=:aFn8@1
+Z0 dE:\Verilog
+Z1 w1466403398
+Z2 8E:/Verilog/BEHAVORIAL_1.v
+Z3 FE:/Verilog/BEHAVORIAL_1.v
+L0 1
+Z4 OV;L;6.4a;39
+r1
+31
+Z5 o-work work -nocovercells -O0
+!s100 LZ4L_>MN7AJEdbTYXH02Y2
+!s85 0
+valways1_tb
+IBHJ7TPG]hg7R_W_K@9fj30
+V]S>g6dViIkBYek:M8Xj8W2
+Z6 dE:\Verilog
+R1
+R2
+R3
+L0 7
+R4
+r1
+31
+R5
+!s100 3^1E@iAWlX2@`Y`KbfI8<3
+!s85 0
+vAlwaysTest
+IL[D>_]Q5jN[UEGWIMGdY20
+VSOS`0^ZMe7ojk68`V5OIm3
+R6
+w1466490409
+Z7 8E:/Verilog/CLOCK.v
+Z8 FE:/Verilog/CLOCK.v
+L0 21
+R4
+r1
+31
+R5
+n@always@test
+!s100 4<lmd@a3L;B@3jU68bNof3
+!s85 0
+vAlwaysTest_tb
+I1HK=?CInR[kL79Tz:nUdV0
+V@zMzP`M^Ugc_P9Ck?b`:z0
+R6
+w1466490040
+R7
+R8
+L0 32
+R4
+r1
+31
+R5
+n@always@test_tb
+!s100 N[:3WF;ZUlfBUjFXO>]GY1
+!s85 0
+vAND
+IEY2<B6:kCS?fZE3dLoB<i0
+VgcF7NO;T@9kBePPI3b^d61
+R6
+Z9 w1465881760
+Z10 8E:/Verilog/AND.v
+Z11 FE:/Verilog/AND.v
+L0 1
+R4
+r1
+31
+R5
+n@a@n@d
+!s100 Nf@m]Al_J_fYblO8Nem_11
+!s85 0
+vand_tb
+IA3k89Eg=77_VGoSbVQeDf1
+V:K<zf?0L[K94[Le0dTB2b2
+R6
+R9
+R10
+R11
+L0 8
+R4
+r1
+31
+R5
+!s100 `F8IFmo?6i`zVBo_2[hl82
+!s85 0
+varithmetic_op
+IU^IZR2>_^OHl`YPKb9m?G0
+VaYRA7ljfQOMRZEkM?547e0
+R6
+Z12 w1465973278
+Z13 8E:/Verilog/OPERATORS.v
+Z14 FE:/Verilog/OPERATORS.v
+L0 28
+R4
+r1
+31
+R5
+!s100 ea;DN7Q];HB41lgg=EJQ63
+!s85 0
+varithmetic_op_tb
+I7_:oRM_kCN?KNbEZY9hoA2
+VnRC=bJ=jmcFa`QbM_nE>T1
+R6
+R12
+R13
+R14
+L0 43
+R4
+r1
+31
+R5
+!s100 4BP5zIJP5TOe42Uc_<1E73
+!s85 0
+vBh_FullAdder
+IYk<M[9f>P=hk^82IR>Uj;3
+VBl[IzN6zmfAiX6<bKkjFC3
+R6
+Z15 w1466529188
+Z16 8E:/Verilog/BEHAVIORAL_1.v
+Z17 FE:/Verilog/BEHAVIORAL_1.v
+L0 25
+R4
+r1
+31
+R5
+n@bh_@full@adder
+!s100 T?QRT33DGgWdPSXIX[]>W1
+!s85 0
+vBh_FullAdder_tb
+I<>W<nSQ<Pbo;0IDFK^mf?0
+V6nFgcLRL9]JBl6<OZU5_F2
+R6
+R15
+R16
+R17
+L0 36
+R4
+r1
+31
+R5
+n@bh_@full@adder_tb
+!s100 <LcA;XZA33]gm6dOzO:582
+!s85 0
+vBh_HalfAdder
+I`^3@=GEGYgb:c7ZMUR:?J3
+V?[S2TVeS>@T0Kz1MIIi?00
+R6
+R15
+R16
+R17
+L0 1
+R4
+r1
+31
+R5
+n@bh_@half@adder
+!s100 b57W7M;z36?nJFQ4JWkWE1
+!s85 0
+vBh_HalfAdder_tb
+I5dL1T<DalY>XNNOA@4GV]2
+VEZlNnP]8X^dT^_S1Jo[Gj0
+R6
+R15
+R16
+R17
+L0 11
+R4
+r1
+31
+R5
+n@bh_@half@adder_tb
+!s100 :@:Dd]Nlacn>9m;;@`W<W2
+!s85 0
+vbit_counter
+!s100 BC]A5_3LZAoj9XVeWHl?=2
+Il15UM[Y2LUC1CkV8B<i2e1
+VIY:EkfDA6j;EGKjCNGB3@1
+R6
+Z18 w1467192902
+Z19 8E:/Verilog/TASKS_FUNCTIONS.v
+Z20 FE:/Verilog/TASKS_FUNCTIONS.v
+L0 158
+R4
+r1
+!s85 0
+31
+R5
+vbit_counter_tb
+!s100 S;j3cL5H5WI6B17^]nI2S0
+IgGB0OfFleU;;^m3X8MQD?3
+V82F=3G53?P_oG=RK@S?X;3
+R6
+R18
+R19
+R20
+L0 176
+R4
+r1
+!s85 0
+31
+R5
+vbitwise_op
+ITX4KNmil99lG3_cnM@LTa3
+Ve^dc139`>hXlM_^aiEI2c1
+R6
+R12
+R13
+R14
+L0 1
+R4
+r1
+31
+R5
+!s100 dMFzINzUgNiXeKbn7emm`0
+!s85 0
+vbitwise_op_tb
+I?TWXU_6jeHDDl4h>@bCZ<1
+VIOD8z0=>lC^He@>6eoo>K0
+R6
+R12
+R13
+R14
+L0 13
+R4
+r1
+31
+R5
+!s100 ^ddGbBDQY:Si8UBZYQZFX0
+!s85 0
+vcallingtask
+!s100 WVW0iSZ]>40Ia=Ai`d<D^2
+I^E8;NTIfn[@2oK2ijfjMN1
+VRlY?ebLj9XPzIP4]GLmMe1
+R6
+Z21 w1467193531
+R19
+R20
+Z22 FFUNCTIONS.v
+L0 123
+R4
+r1
+!s85 0
+31
+R5
+vcallingtask_tb
+!s100 FSIZl]I6=h@3<=OV_Y>4N0
+I3EWA3??Cc@dHN2eQPZAcc0
+VPkVZgbbZmdf<[<kjGR:9m3
+R6
+R18
+R19
+R20
+L0 142
+R4
+r1
+!s85 0
+31
+R5
+vclk_gen
+IzZ5NlZDkV^hVH7oZ=Ob_N3
+VVjgUH`lKTDH[>Z`IcK=Io1
+R6
+w1466484720
+R7
+R8
+L0 1
+R4
+r1
+31
+R5
+!s100 fj]QabAl8db7OZQ4Nkidz2
+!s85 0
+vClkForever
+I_HLV1WWKJ;81iMG>;oZjQ2
+VaK8]1nSSo=?^Vzfmn@N]b2
+R6
+Z23 w1466596171
+R7
+R8
+L0 34
+R4
+r1
+31
+R5
+n@clk@forever
+!s100 V>PYgSHWfLhRT;FjTBTe?0
+!s85 0
+vClkGen
+Igo?eDmgS<jR4LbRHZz;Q>0
+VF4SZ7cKaYDg?Ai:f0[BG;3
+R6
+R23
+R7
+R8
+L0 1
+R4
+r1
+31
+R5
+n@clk@gen
+!s100 Rz3We4`PVL_1LVZ<DYR310
+!s85 0
+vClkGen1
+I5ZY2:QOKL3InMMHMiZ:GY0
+VD]]9jeY98L4fQ=g<RIi?C2
+R6
+R23
+R7
+R8
+L0 7
+R4
+r1
+31
+R5
+n@clk@gen1
+!s100 f@<>8ADK6:h:MT^i]5al[3
+!s85 0
+vComparator_1Bit
+IXTD`[mZhMEcRKOl=iHEAT3
+V=<RCN=P3:YA]ggFdRAfDh3
+R6
+Z24 w1466607312
+Z25 8E:/Verilog/BEHAVIORAL_SEQ.v
+Z26 FE:/Verilog/BEHAVIORAL_SEQ.v
+L0 331
+R4
+r1
+31
+R5
+n@comparator_1@bit
+!s100 ZmahCh6>b_8NLMCX5oHAb2
+!s85 0
+vComparator_1Bit_tb
+Ii6DcLF72g4WA7<adaALA21
+V:Vzd^g0kC34PC]2H>659?0
+R6
+R24
+R25
+R26
+L0 342
+R4
+r1
+31
+R5
+n@comparator_1@bit_tb
+!s100 ;5SYK69SH_<F]^40YE25;1
+!s85 0
+vDECODER
+IAUP_XFccGRIi]2=L>Ua0?2
+VWz[VW0E@1^9C3D[26ojEz0
+R6
+Z27 w1465887621
+Z28 8E:/Verilog/DECODER.v
+Z29 FE:/Verilog/DECODER.v
+L0 1
+R4
+r1
+31
+R5
+n@d@e@c@o@d@e@r
+!s100 T;Ko8dB6?e0kYcR>_O:9m2
+!s85 0
+vDecoder2to4Op
+IoUcbg9oX]@K]HO07ni3bl0
+V51^GlZ6_4l7g_FiF=>g?L2
+R6
+Z30 w1466325318
+Z31 8E:/Verilog/USING_OPERATORS.v
+Z32 FE:/Verilog/USING_OPERATORS.v
+L0 24
+R4
+r1
+31
+R5
+n@decoder2to4@op
+!s100 5^UdZKb7e:V;HS02A4?0g1
+!s85 0
+vDecoder2to4Op_tb
+I1Q>WGY:V6bjjm^PZia9>52
+VM`a]8l2D?lKPFaEbdo8mQ3
+R6
+R30
+R31
+R32
+L0 33
+R4
+r1
+31
+R5
+n@decoder2to4@op_tb
+!s100 f]YT`SdI7=Z[]GTHheVoZ1
+!s85 0
+vdecoder_tb
+IQAW5iL>:9>QNL9b[@;^^?2
+V=ka5g8LfkPkNOiWKG@ETE2
+R6
+R27
+R28
+R29
+L0 19
+R4
+r1
+31
+R5
+!s100 `]iAVZCM6Pg2Y58f`P^z]2
+!s85 0
+vDFlipFlopWithEnable
+IiGE81H0zd?b0I0J6M`o<=0
+VfX;RJJHg36;aQQSLG0NQE2
+R6
+R24
+R25
+R26
+L0 255
+R4
+r1
+31
+R5
+n@d@flip@flop@with@enable
+!s100 `VbOI24K;]<mdHb6SdPgz2
+!s85 0
+vDFlipFlopWithEnable_tb
+I1C5h2b?6W`2@kN5k?<Si13
+V?XiXFCiJ>Alk13[QGaz792
+R6
+R24
+R25
+R26
+L0 273
+R4
+r1
+31
+R5
+n@d@flip@flop@with@enable_tb
+!s100 Fl5z7JZUaCN2BL8dk^;NX3
+!s85 0
+vDFlipFlopWithoutResetEnable
+IU6RcWFaG5J:zQ9@1U:6Qh3
+VjcN]4Wo;INNXN9a3A72_F1
+R6
+R24
+R25
+R26
+L0 181
+R4
+r1
+31
+R5
+n@d@flip@flop@without@reset@enable
+!s100 Rj;AKmQ<=_NUkR0P3VDKR1
+!s85 0
+vDFlipFlopWithoutResetEnable_tb
+I?]fCBMhZWz0a]@ElB6FZj0
+Vn;93T:YBPV_mL?f1Y9TQ^0
+R6
+R24
+R25
+R26
+L0 201
+R4
+r1
+31
+R5
+n@d@flip@flop@without@reset@enable_tb
+!s100 zVLh8?W0NGJWEV2Fa:Hob1
+!s85 0
+vDFlipFlopWithReset
+IiM2<A3Hk^af7EH36aW=YD2
+Vhc;>UAajBJi0]^fK=z7]V3
+R6
+R24
+R25
+R26
+L0 216
+R4
+r1
+31
+R5
+n@d@flip@flop@with@reset
+!s100 TaXdB[[^nVK^[cd2JJENW1
+!s85 0
+vDFlipFlopWithReset_tb
+I:@RYK>SIZo[oz:_TcJh8W0
+V<X^=6li>cf9>3U<?HG3a<2
+R6
+R24
+R25
+R26
+L0 240
+R4
+r1
+31
+R5
+n@d@flip@flop@with@reset_tb
+!s100 el@4Z]:L>z6`i=dDT;YZh2
+!s85 0
+vDFlipFlopWithResetEnable
+I=cJE5dmTEJeBz@5nFo=9O0
+VXVAb`LH@UeK=4mL6R]Gba1
+R6
+R24
+R25
+R26
+L0 288
+R4
+r1
+31
+R5
+n@d@flip@flop@with@reset@enable
+!s100 I4>ZH`d@9cZT2UKFPPhTP2
+!s85 0
+vDFlipFlopWithResetEnable_tb
+Io]>^1D2NL6ae]JQ820OZ@3
+V9GXXEdGea3i2DO=Yi5WKP3
+R6
+R24
+R25
+R26
+L0 315
+R4
+r1
+31
+R5
+n@d@flip@flop@with@reset@enable_tb
+!s100 a_o_Q]ZmhK0XgAZZ2a;2a2
+!s85 0
+vdisable_example
+I^GFj^Dk8];]bJE2RFmMZU1
+VFA2oXU[A[_;DFGCiTCB2H1
+R6
+Z33 w1467054033
+Z34 8E:/Verilog/PROCEDURAL.v
+Z35 FE:/Verilog/PROCEDURAL.v
+L0 77
+R4
+r1
+31
+R5
+!s100 ii03>dZ=lX6RC3RCW6>X`0
+!s85 0
+vdisable_example_tb
+IN3A>mNPDL^bOYX]dW>;=C0
+V0b@SB9TPjVb6a]15MzlVf2
+R6
+R33
+R34
+R35
+L0 95
+R4
+r1
+31
+R5
+!s100 ARJOi^fI[e9Q_L9Ye<1Sc3
+!s85 0
+vDLatchWithEnable
+IV>9m[b88gN4AF7@E8Eb]]3
+VmNH^5XHR8C8JbMe1QklkI1
+R6
+R24
+R25
+R26
+L0 86
+R4
+r1
+31
+R5
+n@d@latch@with@enable
+!s100 Y[NR=J4G83P]@`ec__L<T1
+!s85 0
+vDLatchWithEnable_tb
+IXW]VGF4fQzV]D6EZh;Tc73
+Vb2?gUXOQ[f`cfgEn[1A603
+R6
+R24
+R25
+R26
+L0 115
+R4
+r1
+31
+R5
+n@d@latch@with@enable_tb
+!s100 ldjG7VO_Vf2R<TNi_jLN`3
+!s85 0
+vDLatchWithoutResetEnable
+IHAL^;:zPPj3?H5@]HNDma3
+VbI2<]cGT64cjCci;FJX<H2
+R6
+R24
+R25
+R26
+L0 1
+R4
+r1
+31
+R5
+n@d@latch@without@reset@enable
+!s100 RNP4ah7L?aFJ:h;_DJCiI3
+!s85 0
+vDLatchWithoutResetEnable_tb
+IooD[DPXFbW@Pc;2@O=C7E3
+VEnC<9MZ6fT3Azg?];1L0I3
+R6
+R24
+R25
+R26
+L0 15
+R4
+r1
+31
+R5
+n@d@latch@without@reset@enable_tb
+!s100 _iCMZI1QImgB:9gejlL782
+!s85 0
+vDLatchWithReset
+IWT>Z68Cn4T5@0CXWVl6XI1
+VM4h_PhY]6I6n7ze6nS6kO0
+R6
+R24
+R25
+R26
+L0 31
+R4
+r1
+31
+R5
+n@d@latch@with@reset
+!s100 HfL2n=]1gba5SPDzOOAHe3
+!s85 0
+vDLatchWithReset_tb
+IhBY`GZV1b>kBnB8VONiS02
+VJcYVe1N4zXK4Rf05d=ieo1
+R6
+R24
+R25
+R26
+L0 60
+R4
+r1
+31
+R5
+n@d@latch@with@reset_tb
+!s100 Z5JjhXK01P7N]VJlc`VDA0
+!s85 0
+vDLatchWithResetEnable
+Ij?WAUk0Yo5mS>45i7oQkg1
+VNAGTVEm4UzN1F^XNfGKCB2
+R6
+R24
+R25
+R26
+L0 140
+R4
+r1
+31
+R5
+n@d@latch@with@reset@enable
+!s100 OgRkV2M59jAUgl49Ylh=z3
+!s85 0
+vDLatchWithResetEnable_tb
+I<zEzEXcTD0o2Xm0V?e3=D0
+VlbkFkdFMjNGT5F^U[YDWl3
+R6
+R24
+R25
+R26
+L0 165
+R4
+r1
+31
+R5
+n@d@latch@with@reset@enable_tb
+!s100 3?]?7oA?dm:9d1`B@SI=i1
+!s85 0
+vEnbGen
+IXhV<JY814JhKDcBW;[]bf3
+VIKj=;GKNOkFI]?jgP2zk13
+R6
+R23
+R7
+R8
+L0 23
+R4
+r1
+31
+R5
+n@enb@gen
+!s100 KdfFRnM<N4Z;H][n?SeC;0
+!s85 0
+vFactorial
+!s100 F2[jhMjn2ScOkY_d;?RNh2
+I:J0Bc@k6ii0;F@Ci8IXM02
+VLB[>Q59@<J4P832OhdT8[2
+R6
+R21
+R19
+R20
+R22
+L0 65
+R4
+r1
+!s85 0
+31
+R5
+n@factorial
+vFactorial_tb
+!s100 mhU9UXYoLK4B=oo30mzza2
+IcoCY]PWI]VCR=njEW2dM31
+V9Scgf28Z3fF8CVDZcoF2M0
+R6
+R18
+R19
+R20
+L0 75
+R4
+r1
+!s85 0
+31
+R5
+n@factorial_tb
+vfor_example
+I:RKaO:og2`=JXd1LF?z9h3
+V1I1mlnz>S@jCVG>cTMBWg1
+R6
+R33
+R34
+R35
+L0 64
+R4
+r1
+31
+R5
+!s100 z?UXEcJGX;2m;=bV9AAf10
+!s85 0
+vFULLADDER
+IZ=3h@Y;6;EfkOiQm8PbD>1
+V`SGYZHY6>DeQhKhfWeJ;T1
+R6
+Z36 w1465886115
+Z37 8E:/Verilog/FULLADDER.v
+Z38 FE:/Verilog/FULLADDER.v
+L0 1
+R4
+r1
+31
+R5
+n@f@u@l@l@a@d@d@e@r
+!s100 O]H>UE2[XYfIbTkoI^Vlk3
+!s85 0
+vfulladder_delay
+I5_K9nhcRL]Wol0Y`jH?d30
+VG>M_zBGJ2EjflGL9b]eZf3
+R6
+Z39 w1466406183
+Z40 8E:/Verilog/DELAYS.v
+Z41 FE:/Verilog/DELAYS.v
+L0 1
+R4
+r1
+31
+R5
+!s100 aY;OR2BTehHHJlj1YjK@I0
+!s85 0
+vfulladder_delay_tb
+Ig]J?6AU1f`Me1_Kg9z<F41
+VVH1De[^S0_H83Z=d3jkLZ1
+R6
+R39
+R40
+R41
+L0 13
+R4
+r1
+31
+R5
+!s100 AK5UWe@Tg^j6CQ>i@k8?S2
+!s85 0
+vfulladder_tb
+IJVhI?9m=^FjLE]f9NA5;]3
+VFS2a9UPbHaB1icTb3Vi9<2
+R6
+R36
+R37
+R38
+L0 19
+R4
+r1
+31
+R5
+!s100 nkLibHT8gD5`TT4mjgbRX3
+!s85 0
+vFULLADDER_USING_HALFADDER
+IXjOg?l8k04eMY1PA1kkj;2
+VQ5VQTck8mN2hGNBgZlKfY3
+R6
+Z42 w1465886567
+Z43 8E:/Verilog/FULLADDER_USING_HALFADDER.v
+Z44 FE:/Verilog/FULLADDER_USING_HALFADDER.v
+L0 1
+R4
+r1
+31
+R5
+n@f@u@l@l@a@d@d@e@r_@u@s@i@n@g_@h@a@l@f@a@d@d@e@r
+!s100 OS=l4bh=j;nGXC0P6Z`;20
+!s85 0
+vfulladder_using_halfadder_tb
+IW[8Xm9Y^SNA3SPj>UGR@=2
+VA8m1h06nbK1h5>6eY`DLT1
+R6
+R42
+R43
+R44
+L0 14
+R4
+r1
+31
+R5
+!s100 a^HKB772AFM3dZB4kAd?=1
+!s85 0
+vFULLSUBTRACTOR
+I^E0:<z8:D[b>SO_oDb>KT2
+VUhYJWHZdl=1kfC6ab6omQ2
+R6
+Z45 w1465888142
+Z46 8E:/Verilog/FULLSUBTRACTOR.v
+Z47 FE:/Verilog/FULLSUBTRACTOR.v
+L0 1
+R4
+r1
+31
+R5
+n@f@u@l@l@s@u@b@t@r@a@c@t@o@r
+!s100 ]6aEo]Ph1;[El4UA8CT:=3
+!s85 0
+vfullsubtractor_tb
+I;bKW^2Nk5z@OI7WoOVFg32
+Vjl:1PT[Dg^3hb4S7b3NdX0
+R6
+R45
+R46
+R47
+L0 15
+R4
+r1
+31
+R5
+!s100 9[4`O_moeKbk=dllOVzhf0
+!s85 0
+vFunctionCalling
+!s100 g<dNh7TJU@8QQkO79dz<20
+IlG?F?MWQ]Zn?Am2?7S^482
+VRS?]Pc;FoVS=dEjfOe4oQ0
+R6
+R21
+R19
+R20
+R22
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+n@function@calling
+vFunctionCalling_tb
+!s100 Eo9;LX7mJPSEV@WOzD@4=0
+Id=QkkO``Ale_<LbI9@zRz0
+VKHh8N3F>UjFKC0h5nzUZm2
+R6
+R18
+R19
+R20
+L0 12
+R4
+r1
+!s85 0
+31
+R5
+n@function@calling_tb
+vfunctions
+I^kJakgEK>ECmOK09Y3R[f0
+VC;cm;01>j5AAZlJ2U4U5C0
+R6
+R21
+8E:/Verilog/FUNCTIONS.v
+FE:/Verilog/FUNCTIONS.v
+L0 1
+R4
+r1
+31
+R5
+!s100 O_<acT:Ggcf7R;okGfKLb3
+!s85 0
+vHALFADDER
+I1ASCBR3E1^b<dzL>fhUK00
+VX:TGz]Uz9U85YUR7dWf@S0
+R6
+Z48 w1465883977
+Z49 8E:/Verilog/HALFADDER.v
+Z50 FE:/Verilog/HALFADDER.v
+L0 1
+R4
+r1
+31
+R5
+n@h@a@l@f@a@d@d@e@r
+!s100 EJ[_T<WzbcSO>CE^ndYdY3
+!s85 0
+vhalfadder_tb
+IkIaR_9CXh:hIN4lP>eaJL0
+V8eli44lK81l3oan<Y]RW[1
+R6
+R48
+R49
+R50
+L0 10
+R4
+r1
+31
+R5
+!s100 <3j]H;oE7WH[k2DY<R8CH2
+!s85 0
+vHalfAdderOp
+IfC]3kmZ?nIl[1;Li5ZEmo0
+V6d@;i@Ob^L=Ed]NKkka;J2
+R6
+R30
+R31
+R32
+L0 1
+R4
+r1
+31
+R5
+n@half@adder@op
+!s100 `;bo24KYP;`D7[T;1iULM2
+!s85 0
+vHalfAdderOp_tb
+ImCOkVj8]EN>0UAGfe?aj01
+VW9Znl3zXEb<L<7i6VRIA>3
+R6
+R30
+R31
+R32
+L0 8
+R4
+r1
+31
+R5
+n@half@adder@op_tb
+!s100 ]jFB@fV[8`B=JD8mVI^nT2
+!s85 0
+vHALFSUBTRACTOR
+Ij[i`bi0WiV3cA_84bfW8?2
+V:_XhB>z9GQ:AmH<72bV6j2
+R6
+Z51 w1465887976
+Z52 8E:/Verilog/HALFSUBTRACTOR.v
+Z53 FE:/Verilog/HALFSUBTRACTOR.v
+L0 1
+R4
+r1
+31
+R5
+n@h@a@l@f@s@u@b@t@r@a@c@t@o@r
+!s100 oNN9k[hPege6oMQ:`>7MC3
+!s85 0
+vhalfsubtractor_tb
+IN8lN5[@CR1zbhoHKg[mT=1
+V2RZLJG1:1]MlDgf^mY=_21
+R6
+R51
+R52
+R53
+L0 11
+R4
+r1
+31
+R5
+!s100 G]6cHdZ^Jf4057YOe`ZY93
+!s85 0
+vlogical_op
+IL8OUOYjS9R=SIoTNgJ:P72
+VIO=bi2To11h0jZRh<2fRP1
+R6
+R12
+R13
+R14
+L0 61
+R4
+r1
+31
+R5
+!s100 PFW:_RUILf6WN0W;:TeNQ1
+!s85 0
+vlogical_op_tb
+IVB:I5K`G2_OTE]mV4e2PH0
+VL[G9:HN9?TK7gn1=c[ZWB1
+R6
+R12
+R13
+R14
+L0 71
+R4
+r1
+31
+R5
+!s100 lfiCn<G6S_A2E_Ym]cQBR0
+!s85 0
+vMultiply
+!s100 O3oka:=Tc`g5kS^C^FakS3
+IKJP4YN=P`:l]T1fDz1NFi2
+V@9E^R7BDP7joMPI]BDf[;2
+R6
+R21
+R19
+R20
+R22
+L0 93
+R4
+r1
+!s85 0
+31
+R5
+n@multiply
+vMultiply_tb
+!s100 JZXZ3TeL0`eNB;7ikUZW<3
+I_OEcKSGT7XS7K:>d@dm4V2
+VfE[jcRW7;73zmcPzIeIk:2
+R6
+R18
+R19
+R20
+L0 103
+R4
+r1
+!s85 0
+31
+R5
+n@multiply_tb
+vMUX_2TO1
+IcRO26mFTQ3^VCWen7T;kQ0
+V<G>PGML6NJO2fgH;A?V<S0
+R6
+Z54 w1465888554
+Z55 8E:/Verilog/MUX_2TO1.v
+Z56 FE:/Verilog/MUX_2TO1.v
+L0 1
+R4
+r1
+31
+R5
+n@m@u@x_2@t@o1
+!s100 IJgMJlc4I_FbHVTGh3^Jm1
+!s85 0
+vmux_2to1_tb
+I4Dz`=D`_kGz1dcnK0cWS33
+V6?jMf;c=14c9QcIC3EmfD3
+R6
+R54
+R55
+R56
+L0 12
+R4
+r1
+31
+R5
+!s100 YJimICahD;4NIYGMnBZ<53
+!s85 0
+vMUX_4TO1
+IdOn5L5dHl^e=Am;RP=HgW3
+V9EKh]_>b]T8SMl7E0CUl[3
+R6
+Z57 w1465890138
+Z58 8E:/Verilog/MUX_4TO1.v
+Z59 FE:/Verilog/MUX_4TO1.v
+L0 1
+R4
+r1
+31
+R5
+n@m@u@x_4@t@o1
+!s100 :RD40dNbn@i`iC@QPI6Ud1
+!s85 0
+vmux_4to1_tb
+I4SzHz5QgXAQ@HDF=R1GE=3
+VWZzXBk97z:]LNWZzzG4ze3
+R6
+R57
+R58
+R59
+L0 15
+R4
+r1
+31
+R5
+!s100 D1A5i2CVo@C<I:>L;`Ga62
+!s85 0
+vNOT
+ILnFF@z5X>Sl2PN5PL7V?e3
+VPkK`Gf_oVR48ZcldaBZUO1
+R6
+Z60 w1466137200
+Z61 8E:/Verilog/NOT.v
+Z62 FE:/Verilog/NOT.v
+L0 1
+R4
+r1
+31
+R5
+n@n@o@t
+!s100 b?Z26Zd8Ef8cOSoLH4>[g3
+!s85 0
+vnot_tb
+IU>e_@k3TPFB@jWLgF95Eb1
+Vn==>zS26k:Fhh:JXhS`hi2
+R6
+R60
+R61
+R62
+L0 8
+R4
+r1
+31
+R5
+!s100 47jfZ4KGZKIO[e]XF:T<X3
+!s85 0
+vOR
+IW98>GaQN01Y]:ZX9znoPg3
+VH:=@[06zn;mnN@6n2WHJm0
+R6
+Z63 w1465882864
+Z64 8E:/Verilog/OR.v
+Z65 FE:/Verilog/OR.v
+L0 1
+R4
+r1
+31
+R5
+n@o@r
+!s100 f3h7;0dNTZdQ`hzYR9S<R0
+!s85 0
+vor_tb
+I;REK>2;>ZRLF@HI;KJbMV3
+VC03HO1il;RUfX30]ULJXe2
+R6
+R63
+R64
+R65
+L0 8
+R4
+r1
+31
+R5
+!s100 eDB?1`49kELbkz5N_H>]_0
+!s85 0
+vParamCounter
+IKkBI7IGg3MIGh2^CUZaPY1
+VFiZ@dWWG`PEN[>1YbJVie2
+R6
+Z66 w1466755248
+Z67 8E:/Verilog/PARAMETERS.v
+Z68 FE:/Verilog/PARAMETERS.v
+L0 1
+R4
+r1
+31
+R5
+n@param@counter
+!s100 Qfm>Gdz[?ZUO`N=8G87EO2
+!s85 0
+vParamCounter_tb
+IV@I=2eF4VS`JQNLoCLblb2
+VZ7ccFdVoM5DYz18@<e6@K3
+R6
+R66
+R67
+R68
+L0 20
+R4
+r1
+31
+R5
+n@param@counter_tb
+!s100 YInZmm38<iElf41zh9mJJ1
+!s85 0
+vreduction_op
+ID<7LIla4zQFKnEXi7YfYO2
+VN>LGB3hd5SS9hB;aIndce3
+R6
+R12
+R13
+R14
+L0 87
+R4
+r1
+31
+R5
+!s100 ff3J:i]2LO8nEF]9WUMHd2
+!s85 0
+vreduction_op_tb
+ILeAnSI7ledNA4e1Hn6_mz0
+V2CnTcDUH[3gGbZICzz2[o3
+R6
+R12
+R13
+R14
+L0 98
+R4
+r1
+31
+R5
+!s100 _6MBQ69ORTTS9z_zAjzjz0
+!s85 0
+vRepeatCounter
+ID1<izGc[`l]zbd:3TeXD=2
+V]flocR[j??`GmeKoJ2SnB2
+R6
+R33
+R34
+R35
+L0 2
+R4
+r1
+31
+R5
+n@repeat@counter
+!s100 ;Mlo1G8>VPDYf^ggNb`7l2
+!s85 0
+vRepeatMemory
+IJAG8g^n^Xjna1P:[394Q^2
+V3O4?e`f@9_C1IS>_>FI^81
+R6
+R33
+R34
+R35
+L0 14
+R4
+r1
+31
+R5
+n@repeat@memory
+!s100 k76Hzoh^Ih<^?Pdz2DhfL2
+!s85 0
+vRstGen
+IM@ai6I@E3L@e:fH1Oiga61
+VmGB=PRN1iVGHD3N4O6f2B0
+R6
+R23
+R7
+R8
+L0 13
+R4
+r1
+31
+R5
+n@rst@gen
+!s100 ?fN89N>8ICN[6Z:214oZY2
+!s85 0
+vseq_det
+IOn[l_1;0hWF4K89?eP0zB2
+Vf:Iln0?8V@@APL`m]41Q01
+R6
+Z69 w1467196522
+Z70 8E:/Verilog/FSM.v
+Z71 FE:/Verilog/FSM.v
+L0 1
+R4
+r1
+31
+R5
+!s100 fe:kUo?Ube;DzBUeRTUHK2
+!s85 0
+vseq_det_tb
+IY];kAG[i7^Q`;MYX>PK[^0
+V=0Z;PEIVjWgPBRWEf^]WX3
+R6
+R69
+R70
+R71
+L0 39
+R4
+r1
+31
+R5
+!s100 gBf;i6I<doj9`3e`D<zTB1
+!s85 0
+vUpCounter
+I4UZ[ch?c@h_;zz1MTPk:D1
+V`NP8JahRm[Z4NZz>VUoZ_0
+R6
+R24
+R25
+R26
+L0 360
+R4
+r1
+31
+R5
+n@up@counter
+!s100 <b;UM7BgPOCnAU<:GHdcS3
+!s85 0
+vUpCounter_tb
+IV_35C5^0NcGDfXWBFWSY^2
+V^CIJh0PcM`:Df1ZazYRBW0
+R6
+R24
+R25
+R26
+L0 376
+R4
+r1
+31
+R5
+n@up@counter_tb
+!s100 ZYfi8:VXgl0lQk@e?z<h83
+!s85 0
+vwhile_example
+ID0SoeFgD74]FdXFBL[AF22
+VDITcEkW`VPzYe6:l=UXGS0
+R6
+R33
+R34
+R35
+L0 34
+R4
+r1
+31
+R5
+!s100 mdbWZX_]zHQNN8l@zNajV3
+!s85 0
+vwhile_example_tb
+IjQOU@Ei]lDV>Bh`8==^kJ0
+Vg]2k1[8;`08hbf:^XT`?90
+R6
+w0
+R34
+R35
+L0 55
+R4
+r1
+31
+R5
+!s100 [`gOcXI;<R`MCHQ>YmANd3
+!s85 0
+vword_aligner
+!s100 ak[cZ0[oKkJAziYdOGMmY2
+IIhNXOKDm7?D2_MK;K283H1
+V81OMmXimLfFFX?MlbX]6H2
+R6
+R18
+R19
+R20
+L0 30
+R4
+r1
+!s85 0
+31
+R5
+vword_aligner_tb
+!s100 ^_`YSH0Y4G=2bm5Qd4@kh0
+I0dYYYFATTUakg>8@TZ<f^1
+V;W3g2m3m9:FFKczcIl3jI0
+R6
+R18
+R19
+R20
+L0 46
+R4
+r1
+!s85 0
+31
+R5
+vXOR
+ILf@D=FLC<Dn;0k27kMH9J3
+VjHcDMB[KSfWmQ?2jhQE;H1
+R6
+Z72 w1465883507
+Z73 8E:/Verilog/XOR.v
+Z74 FE:/Verilog/XOR.v
+L0 1
+R4
+r1
+31
+R5
+n@x@o@r
+!s100 ?T8E[f1R9Yff6Z;D66iLC2
+!s85 0
+vxor_tb
+I9>RUhjnG^Q7fF3AoG`G:A1
+VF>0JA`moWb8L0_VTIR]g:1
+R6
+R72
+R73
+R74
+L0 8
+R4
+r1
+31
+R5
+!s100 ;h_e=g_h4zPIli1]X:`Ll2
+!s85 0

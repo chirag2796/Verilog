@@ -1,0 +1,31 @@
+module fulladder_delay(a,b,cin,s,cout);
+  input a,b,cin;
+  output s, cout;
+  wire w1,w2,w3;
+  
+  xor #(5,4) a1(w1,a,b);
+  xor #(10) x1(s,w1,cin);
+  and #(5,4) a2(w2,a,b);
+  and #(5,4) a3(w3,cin,w1);
+  or #(6) o1(cout,w2,w3);
+endmodule
+
+module fulladder_delay_tb;
+  reg a,b,cin;
+  wire s,cout;
+  fulladder_delay f1(a,b,cin,s,cout);
+  initial
+  begin
+    a=0;b=0;cin=0;
+    #14 a=0;b=0;cin=1;
+    #28 a=0;b=1;cin=0;
+    #43 a=0;b=1;cin=1;
+    #59 a=1;b=0;cin=0;
+    #74 a=1;b=0;cin=1;
+    #90 a=1;b=1;cin=0;
+    #104 a=1;b=1;cin=1;
+  end
+  
+  initial
+  $monitor("a=%b, b=%b, cin=%b, s=%b, cout=%b",a,b,cin,s,cout);
+endmodule  

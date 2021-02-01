@@ -1,0 +1,8 @@
+module HALFADDER(a,b,s,c);
+  input a,b;
+  output s,c;
+  
+  XOR a11(a,b,s);
+  AND a12(a,b,c);
+  
+endmodule

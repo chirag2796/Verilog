@@ -1,0 +1,260 @@
+E:/Verilog/MUX_2TO1.v {1 {vlog -work work -nocovercells E:/Verilog/MUX_2TO1.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module MUX_2TO1
+-- Compiling module mux_2to1_tb
+
+Top level modules:
+	mux_2to1_tb
+
+} {} {}} E:/Verilog/PROCEDURAL.v {1 {vlog -work work -nocovercells E:/Verilog/PROCEDURAL.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module RepeatCounter
+-- Compiling module RepeatMemory
+-- Compiling module while_example
+-- Compiling module for_example
+-- Compiling module disable_example
+-- Compiling module disable_example_tb
+
+Top level modules:
+	RepeatCounter
+	RepeatMemory
+	while_example
+	for_example
+	disable_example_tb
+
+} {} {}} E:/Verilog/NOT.v {1 {vlog -work work -nocovercells E:/Verilog/NOT.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module NOT
+-- Compiling module not_tb
+
+Top level modules:
+	not_tb
+
+} {} {}} E:/Verilog/MUX_4TO1.v {1 {vlog -work work -nocovercells E:/Verilog/MUX_4TO1.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module MUX_4TO1
+-- Compiling module mux_4to1_tb
+
+Top level modules:
+	mux_4to1_tb
+
+} {} {}} E:/Verilog/FULLADDER_USING_HALFADDER.v {1 {vlog -work work -nocovercells E:/Verilog/FULLADDER_USING_HALFADDER.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module FULLADDER_USING_HALFADDER
+-- Compiling module fulladder_using_halfadder_tb
+
+Top level modules:
+	fulladder_using_halfadder_tb
+
+} {} {}} E:/Verilog/HALFADDER.v {1 {vlog -work work -nocovercells E:/Verilog/HALFADDER.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module HALFADDER
+-- Compiling module halfadder_tb
+
+Top level modules:
+	halfadder_tb
+
+} {} {}} E:/Verilog/FULLSUBTRACTOR.v {1 {vlog -work work -nocovercells E:/Verilog/FULLSUBTRACTOR.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module FULLSUBTRACTOR
+-- Compiling module fullsubtractor_tb
+
+Top level modules:
+	fullsubtractor_tb
+
+} {} {}} E:/Verilog/BEHAVIORAL_SEQ.v {1 {vlog -work work -nocovercells E:/Verilog/BEHAVIORAL_SEQ.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module DLatchWithoutResetEnable
+-- Compiling module DLatchWithoutResetEnable_tb
+-- Compiling module DLatchWithReset
+-- Compiling module DLatchWithReset_tb
+-- Compiling module DLatchWithEnable
+-- Compiling module DLatchWithEnable_tb
+-- Compiling module DLatchWithResetEnable
+-- Compiling module DLatchWithResetEnable_tb
+-- Compiling module DFlipFlopWithoutResetEnable
+-- Compiling module DFlipFlopWithoutResetEnable_tb
+-- Compiling module DFlipFlopWithReset
+-- Compiling module DFlipFlopWithReset_tb
+-- Compiling module DFlipFlopWithEnable
+-- Compiling module DFlipFlopWithEnable_tb
+-- Compiling module DFlipFlopWithResetEnable
+-- Compiling module DFlipFlopWithResetEnable_tb
+-- Compiling module Comparator_1Bit
+-- Compiling module Comparator_1Bit_tb
+-- Compiling module UpCounter
+-- Compiling module UpCounter_tb
+
+Top level modules:
+	DLatchWithoutResetEnable_tb
+	DLatchWithReset_tb
+	DLatchWithEnable_tb
+	DLatchWithResetEnable_tb
+	DFlipFlopWithoutResetEnable_tb
+	DFlipFlopWithReset_tb
+	DFlipFlopWithEnable_tb
+	DFlipFlopWithResetEnable_tb
+	Comparator_1Bit_tb
+	UpCounter_tb
+
+} {} {}} E:/Verilog/BEHAVIORAL_1.v {1 {vlog -work work -nocovercells E:/Verilog/BEHAVIORAL_1.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module Bh_HalfAdder
+-- Compiling module Bh_HalfAdder_tb
+-- Compiling module Bh_FullAdder
+-- Compiling module Bh_FullAdder_tb
+
+Top level modules:
+	Bh_HalfAdder_tb
+	Bh_FullAdder_tb
+
+} {} {}} E:/Verilog/TASKS_FUNCTIONS.v {1 {vlog -work work -nocovercells E:/Verilog/TASKS_FUNCTIONS.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module FunctionCalling
+-- Compiling module functions
+-- Compiling module FunctionCalling_tb
+-- Compiling module word_aligner
+-- Compiling module word_aligner_tb
+-- Compiling module Factorial
+-- Compiling module functions
+-- Compiling module Factorial_tb
+-- Compiling module Multiply
+-- Compiling module functions
+-- Compiling module Multiply_tb
+-- Compiling module callingtask
+-- Compiling module functions
+-- Compiling module callingtask_tb
+-- Compiling module bit_counter
+-- Compiling module bit_counter_tb
+
+Top level modules:
+	FunctionCalling_tb
+	word_aligner_tb
+	Factorial_tb
+	Multiply_tb
+	callingtask_tb
+	bit_counter_tb
+
+} {} {}} E:/Verilog/FSM.v {1 {vlog -work work -nocovercells E:/Verilog/FSM.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module seq_det
+-- Compiling module seq_det_tb
+
+Top level modules:
+	seq_det_tb
+
+} {} {}} E:/Verilog/DECODER.v {1 {vlog -work work -nocovercells E:/Verilog/DECODER.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module DECODER
+-- Compiling module decoder_tb
+
+Top level modules:
+	decoder_tb
+
+} {} {}} E:/Verilog/OPERATORS.v {1 {vlog -work work -nocovercells E:/Verilog/OPERATORS.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module bitwise_op
+-- Compiling module bitwise_op_tb
+-- Compiling module arithmetic_op
+-- Compiling module arithmetic_op_tb
+-- Compiling module logical_op
+-- Compiling module logical_op_tb
+-- Compiling module reduction_op
+-- Compiling module reduction_op_tb
+
+Top level modules:
+	bitwise_op_tb
+	arithmetic_op_tb
+	logical_op_tb
+	reduction_op_tb
+
+} {} {}} E:/Verilog/FUNCTIONS.v {1 {vlog -work work -nocovercells E:/Verilog/FUNCTIONS.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module functions
+
+Top level modules:
+	functions
+
+} {} {}} E:/Verilog/XOR.v {1 {vlog -work work -nocovercells E:/Verilog/XOR.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module XOR
+-- Compiling module xor_tb
+
+Top level modules:
+	xor_tb
+
+} {} {}} E:/Verilog/OR.v {1 {vlog -work work -nocovercells E:/Verilog/OR.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module OR
+-- Compiling module or_tb
+
+Top level modules:
+	or_tb
+
+} {} {}} E:/Verilog/DELAYS.v {1 {vlog -work work -nocovercells E:/Verilog/DELAYS.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module fulladder_delay
+-- Compiling module fulladder_delay_tb
+
+Top level modules:
+	fulladder_delay_tb
+
+} {} {}} E:/Verilog/AND.v {1 {vlog -work work -nocovercells E:/Verilog/AND.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module AND
+-- Compiling module and_tb
+
+Top level modules:
+	and_tb
+
+} {} {}} E:/Verilog/FULLADDER.v {1 {vlog -work work -nocovercells E:/Verilog/FULLADDER.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module FULLADDER
+-- Compiling module fulladder_tb
+
+Top level modules:
+	fulladder_tb
+
+} {} {}} E:/Verilog/USING_OPERATORS.v {1 {vlog -work work -nocovercells E:/Verilog/USING_OPERATORS.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module HalfAdderOp
+-- Compiling module HalfAdderOp_tb
+-- Compiling module Decoder2to4Op
+-- Compiling module Decoder2to4Op_tb
+
+Top level modules:
+	HalfAdderOp_tb
+	Decoder2to4Op_tb
+
+} {} {}} E:/Verilog/HALFSUBTRACTOR.v {1 {vlog -work work -nocovercells E:/Verilog/HALFSUBTRACTOR.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module HALFSUBTRACTOR
+-- Compiling module halfsubtractor_tb
+
+Top level modules:
+	halfsubtractor_tb
+
+} {} {}} E:/Verilog/CLOCK.v {1 {vlog -work work -nocovercells E:/Verilog/CLOCK.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module ClkGen
+-- Compiling module ClkGen1
+-- Compiling module RstGen
+-- Compiling module EnbGen
+-- Compiling module ClkForever
+
+Top level modules:
+	ClkGen
+	ClkGen1
+	RstGen
+	EnbGen
+	ClkForever
+
+} {} {}} E:/Verilog/PARAMETERS.v {1 {vlog -work work -nocovercells E:/Verilog/PARAMETERS.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module ParamCounter
+-- Compiling module ParamCounter_tb
+
+Top level modules:
+	ParamCounter_tb
+
+} {} {}}
